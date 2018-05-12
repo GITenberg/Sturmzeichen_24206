@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/26314
     wikipedia: http://de.wikipedia.org/wiki/Richard_Skowronnek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/24206#Sturmzeichen
 gutenberg_bookshelf: DE Prosa
 gutenberg_issued: '2008-01-07'
 gutenberg_type: Text
